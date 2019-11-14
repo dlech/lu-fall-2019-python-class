@@ -1,4 +1,6 @@
 
+First class period: 11/5/2019
+
 In this class, we were introduced to the [Mu editor][mu] and [turtle][turtle]
 graphics.
 
@@ -21,3 +23,6 @@ We covered the following topics:
   - [Draw a triangle](./06-triangle.py)
   - [Draw a circle](./07-circle.py)
   - [Change the color](./08-color.py)
+
+The class concluded with a challenge to try to write your name on screen using
+the drawing functions that we learned today.
