@@ -1,4 +1,4 @@
-First class period: 11/7/2019
+Second class period: 11/7/2019
 
 In this class, we learned how to loops and functions to simplify our code.
 
