@@ -1,16 +1,11 @@
-# File: 01-calc.py
+# File: 02-calc.py
 # Author: David Lechner
 # Date: 11/12/2019
 
-'''Learning how to use python as a calculator'''
+'''Learning how to use Python as a calculator'''
 
 # basic math functions are built-in, but more functions available in the
 import math
-
-# LEARN: print() is a built-in function that writes text to the output terminal
-
-# LEARN: when we print a string, the output we see is exactly what is between
-# the quotes
 
 # LEARN: when we print a mathematical expression, the output we see is the
 # "answer" after evaluating the expression
@@ -53,13 +48,6 @@ print('the cosine of pi is', math.cos(math.pi))  # OUTPUT: the cosine of pi is -
 
 
 # making a simple calculator
-
-# LEARN: t\There is also an input() function that is similar to print() except
-# that is also waits for input from the terminal. The program will wait until
-# you type something and press enter before continuing.
-
-# LEARN: Variables are like variables in algebra. They are just a name that
-# represents a value. In this case, the store the number that we type in.
 
 # LEARN: When we tried to add the two numbers we typed in with n1 + n2, a
 # strange thing happened. For example, if we typed in 4 for the first number
