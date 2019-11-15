@@ -5,6 +5,7 @@ This repository contains the code examples from class.
 - [Class 1: Turtle graphics](./class-1/)
 - [Class 2: Loops and functions](./class-2/)
 - [Class 3: Terminal output/input and math](./class-3/)
+- [Class 3: Graphing calculator](./class-4/)
 
 
 Class is from 3:30 to 5:00 PM Tuesday/Thursday during the 2019 fall semester.
