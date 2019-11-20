@@ -12,4 +12,7 @@ Demonstration:
 - [Coordinate systems](./demo2.py)
 
 References:
+- https://www.pythonclassroom.com/output
+- https://www.pythonclassroom.com/input
+- https://www.pythonclassroom.com/math
 - [Python math module](https://docs.python.org/3/library/math.html)

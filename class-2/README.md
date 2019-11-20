@@ -7,3 +7,8 @@ In this class, we learned how to loops and functions to simplify our code.
 - [Adding arguments to functions](./03-arguments.py)
 - [Drawing geometric patterns](./04-patterns.py)
 - [Using value in for loop](./05-for-loop-value.py)
+
+
+References:
+- https://www.pythonclassroom.com/loops/for-loop-range-one-argument
+- https://www.pythonclassroom.com/functions

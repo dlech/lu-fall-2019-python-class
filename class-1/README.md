@@ -26,3 +26,7 @@ We covered the following topics:
 
 The class concluded with a challenge to try to write your name on screen using
 the drawing functions that we learned today.
+
+References:
+- https://www.pythonclassroom.com/turtle-graphics
+- https://docs.python.org/3/library/turtle.html
